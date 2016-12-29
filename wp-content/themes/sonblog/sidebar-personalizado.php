@@ -1,0 +1,1 @@
+<p>Meu outro sidebar</p>

@@ -1,0 +1,22 @@
+/*
+    Theme Name: Blog da School of Net
+    Theme URI: http://schoolofnet.com
+    Author: Luiz Carlos
+    Author URI: http://github.com/argentinaluiz
+    Description: Tema do Blog da School of Net
+    Version: 1.0
+    License: MIT
+    License URI: http://schoolofnet.com
+    Tags: programação, cursos, categorias, tags, posts
+    Text Domain: sonblog
+ */
+
+.footer{
+    height: 60px;
+    background-color: black;
+    color: white;
+}
+
+.footer .container {
+    padding-top: 20px;
+}
